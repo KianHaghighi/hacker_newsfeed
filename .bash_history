@@ -1791,3 +1791,99 @@ scp /home/kian/* /mnt/c/Users/kianh/new_folder
 cd ..
 ls
 exit
+cd news
+source env/venv/bin/activate
+ls
+pylint update_db.py
+cat update_db.py
+clear
+vim update_db.py
+rm update_db.py
+vim update_db.py
+python3 update_db.py
+python3 models.py
+python3 app.py
+clear
+pylint update_db.py
+vim update_db.py
+python3 update_db.py
+pylint update_db.py
+clear
+sudo supervisorctl restart myproject
+clear
+cd ..
+git push origin master
+cd ~./ssh
+ls
+cd .ssh
+ls
+cat authorized_keys
+cat known_hosts
+clear
+cd ..
+pwd
+git push origin main
+git status
+git add .
+git commit -m "Init commit"
+git push origin master
+git remote -v
+git remote set-url origin git@github.com:KianHaghighi/news.git
+git push origin master
+git remote -v
+git push origin master
+cd ~/.ssh
+ls
+cd ..
+exit
+git push origin master
+clear
+cd news
+ls
+cd ...
+cd ..
+git push origin master
+ls
+cd news
+cd ..
+git add .
+git push origin master
+git remote -v
+clear
+cd news
+source env/venv/bin/activate
+ls
+python3 app.py
+cd templates
+vim profile.html
+cd ..
+python3 app.py
+clear
+cat app.py
+clear
+vim test_app.py
+pylint test_app.py
+rm test_app.py
+vim test_app.py
+python3 test_app.py
+vim app.py
+vim test_app.py
+python3 test_app.py
+pip3 install coverage
+coverage run -m unittest test_app.py
+clear
+vim test_app.py
+python3 test_app.py
+coverage run -m unittest test_app.py
+clear
+vim test_app.py
+python3 test_app.py
+vim test_app.py
+python3 test_app.py
+vim test_app.py
+clear
+vim app.py
+coverage repor
+coverage report
+clear
+exit
