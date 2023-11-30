@@ -1533,3 +1533,261 @@ python3 update_db.py
 python3 app.py
 python3 update_db.py
 sqlite3 hacker_news.db
+cd news
+source env/venv/bin/activate
+ls
+clear
+python3 update_db.py
+sqlite3 hacker_news.db
+clear
+vim models.py
+vim update_db.py
+pylint update_db.py
+cat update_db.py
+clear
+vim models.py
+cd templates
+l
+vim admin_news.html
+cd ..
+python3 app.py
+clear
+vim app.py
+python3 app.py
+vim update_db.py
+clear
+vim models.py
+python3 models.py
+python3 update_db.py
+python3 app.py
+clear
+vim app.py
+vim app.p
+vim app.py
+python3 app.py
+clear
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+cd templates
+vim admin_news.html
+cd ..
+vim update_db.py
+vim models.py
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+vim models.py
+python3 models.py
+python3 update_db.py
+python3 app.py
+clear
+vim app.py
+vim models.py
+vim app.py
+python3 models.py
+python3 update_db.py
+python3 app.py
+vim app.py
+vim update_db.py
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+vim update_db.py
+vim models.py
+python3 models.py
+python3 app.py
+vim app.py
+python3 app.py
+vim update_db.py
+cat update_db.py
+clear
+vim app.py
+python3 app.py
+vim app.py
+vim update_db.py
+python3 update_db.py
+clear
+vim app.py
+python3 app.py
+vim update_db.py
+python3 update_db.py
+vim app.py
+python3 app.py
+python3 update_db.py
+clear
+python3 app.py
+vim app.py
+vim update_db.py
+python3 update_db.py
+vim app.py
+python3 app.py
+clear
+vim app.py
+python3 app.py
+vim models.py
+python3 models.py
+vim app.py
+python3 app.py
+vim models.py
+vim app.py
+vim models.py
+python3 models.py
+python3 app.py
+vim app.py
+python3 app.py
+vim models.py
+python3 models.py
+python3 app.py
+vim app.py
+rm hacker_news.db
+python3 update_db.py
+python3 models.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+vim models.py
+python3 models.py
+vim app.py
+python3 app.py
+python3 models.py
+rm hacker_news.db
+python3 update_db.py
+python3 app.py
+sqlite3 hacker_news.db
+vim update_db.py
+vim app.py
+vim update_db.py
+flask db init
+sqlite3 hacker_news.db
+cllear
+clea
+clear
+pip3 install Flask_Migrate
+flask db init
+clear
+python3 app.py
+vim update_db.py
+python3 update_db.py
+python3 app.py
+vim app.py
+python3 app.py
+vim app.py
+python3 app.py
+clear
+vim models.py
+vim app.py
+python3 app.py
+clear
+vim app.py
+python3 app.py
+vim models.py
+cd templates
+vim home.html
+cd ..
+python3 app.py
+cd templates
+vim home.html
+cd ..
+python3 app.py
+vim app.py
+cd templates
+vim home.html
+cd ..
+python3 app.py
+cd templates
+vim home.html
+cd ..
+python3 app.py
+clear
+vim app.py
+vim models.py
+python3 models.py
+python3 app.py
+vim app.py
+vim models.py
+vim app.py
+vim models.py
+python3 models.py
+clear
+vim app.py
+python3 app.py
+clear
+cd templates
+vim profile.html
+cd ..
+cd templates
+vim home.html
+cd ..
+vim app.py
+cd templates
+ls
+vim profile.html
+vim home.html
+cd ..
+vim app.py
+cd tempaltes
+cd templates
+vim profile.html
+cd ..
+vim app.py
+python3 app.py
+cd templates
+vim home.html
+cd ..
+python3 app.py
+clear
+ls
+cd ..
+ls
+sqlite3 hacker_news.db
+clear
+ls
+cd news
+ls
+cat app.py
+clear
+pylint app.py
+cat app.py
+clear
+vim app.py
+python3 app.py
+clear
+pylint app.py
+clear
+cd ..
+git init
+git add .
+git commit -m "Init commit"
+git remote add origin https://github.com/KianHaghighi/news
+git push -u origin master
+clea
+clear
+cd news
+ls
+clear
+exit
+pwd
+exit
+pw
+pwd
+scp /home/kian/* /mnt/c/Users/kianh
+scp /home/kian/* /mnt/c/Users/kianh/
+scp /home/kian/* /mnt/c/Users/kianh/new_folder
+cd ..
+ls
+exit

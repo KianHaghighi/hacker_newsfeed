@@ -15,9 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1701372935,,"wq"
+|2,0,1701373891,,"wq"
 :q!
-|2,0,1701372559,,"q!"
+|2,0,1701373735,,"q!"
 :Q!
 |2,0,1701372555,,"Q!"
 :w
@@ -362,30 +362,130 @@
 |3,1,36,0,1,0,1701027619,"T\" action=\"{{ url_for('delete_news', news_id=item.id) }}\">"
 
 # File marks:
-'0  135  30  ~/news/app.py
-|4,48,135,30,1701372935,"~/news/app.py"
-'1  18  57  ~/news/templates/home.html
-|4,49,18,57,1701372574,"~/news/templates/home.html"
-'2  18  57  ~/news/templates/home.html
-|4,50,18,57,1701372559,"~/news/templates/home.html"
-'3  114  60  ~/news/app.py
-|4,51,114,60,1701372495,"~/news/app.py"
-'4  107  60  ~/news/app.py
-|4,52,107,60,1701372495,"~/news/app.py"
-'5  10  19  ~/news/templates/profile.html
-|4,53,10,19,1701372457,"~/news/templates/profile.html"
-'6  102  83  ~/news/app.py
-|4,54,102,83,1701372433,"~/news/app.py"
-'7  105  43  ~/news/app.py
-|4,55,105,43,1701372433,"~/news/app.py"
-'8  96  83  ~/news/app.py
-|4,56,96,83,1701372433,"~/news/app.py"
-'9  98  43  ~/news/app.py
-|4,57,98,43,1701372433,"~/news/app.py"
+'0  12  0  ~/news/update_db.py
+|4,48,12,0,1701373891,"~/news/update_db.py"
+'1  27  19  ~/news/update_db.py
+|4,49,27,19,1701373847,"~/news/update_db.py"
+'2  28  19  ~/news/update_db.py
+|4,50,28,19,1701373847,"~/news/update_db.py"
+'3  80  30  ~/news/update_db.py
+|4,51,80,30,1701373749,"~/news/update_db.py"
+'4  79  30  ~/news/update_db.py
+|4,52,79,30,1701373749,"~/news/update_db.py"
+'5  81  30  ~/news/update_db.py
+|4,53,81,30,1701373749,"~/news/update_db.py"
+'6  80  30  ~/news/update_db.py
+|4,54,80,30,1701373749,"~/news/update_db.py"
+'7  71  30  ~/news/update_db.py
+|4,55,71,30,1701373735,"~/news/update_db.py"
+'8  71  30  ~/news/update_db.py
+|4,56,71,30,1701373735,"~/news/update_db.py"
+'9  70  30  ~/news/update_db.py
+|4,57,70,30,1701373735,"~/news/update_db.py"
 
 # Jumplist (newest first):
+-'  12  0  ~/news/update_db.py
+|4,39,12,0,1701373891,"~/news/update_db.py"
+-'  27  19  ~/news/update_db.py
+|4,39,27,19,1701373868,"~/news/update_db.py"
+-'  28  19  ~/news/update_db.py
+|4,39,28,19,1701373847,"~/news/update_db.py"
+-'  80  30  ~/news/update_db.py
+|4,39,80,30,1701373834,"~/news/update_db.py"
+-'  81  30  ~/news/update_db.py
+|4,39,81,30,1701373834,"~/news/update_db.py"
+-'  79  30  ~/news/update_db.py
+|4,39,79,30,1701373749,"~/news/update_db.py"
+-'  80  30  ~/news/update_db.py
+|4,39,80,30,1701373749,"~/news/update_db.py"
+-'  1  0  ~/news/update_db.py
+|4,39,1,0,1701373742,"~/news/update_db.py"
+-'  1  0  ~/news/update_db.py
+|4,39,1,0,1701373742,"~/news/update_db.py"
+-'  1  0  ~/news/update_db.py
+|4,39,1,0,1701373742,"~/news/update_db.py"
+-'  71  30  ~/news/update_db.py
+|4,39,71,30,1701373735,"~/news/update_db.py"
+-'  70  30  ~/news/update_db.py
+|4,39,70,30,1701373735,"~/news/update_db.py"
+-'  72  30  ~/news/update_db.py
+|4,39,72,30,1701373735,"~/news/update_db.py"
+-'  71  30  ~/news/update_db.py
+|4,39,71,30,1701373735,"~/news/update_db.py"
+-'  71  30  ~/news/update_db.py
+|4,39,71,30,1701373735,"~/news/update_db.py"
+-'  30  0  ~/news/update_db.py
+|4,39,30,0,1701373630,"~/news/update_db.py"
+-'  29  0  ~/news/update_db.py
+|4,39,29,0,1701373630,"~/news/update_db.py"
+-'  31  0  ~/news/update_db.py
+|4,39,31,0,1701373630,"~/news/update_db.py"
+-'  30  0  ~/news/update_db.py
+|4,39,30,0,1701373630,"~/news/update_db.py"
+-'  30  0  ~/news/update_db.py
+|4,39,30,0,1701373630,"~/news/update_db.py"
 -'  135  30  ~/news/app.py
 |4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  135  30  ~/news/app.py
+|4,39,135,30,1701372935,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
+-'  114  60  ~/news/app.py
+|4,39,114,60,1701372841,"~/news/app.py"
 -'  114  60  ~/news/app.py
 |4,39,114,60,1701372841,"~/news/app.py"
 -'  18  57  ~/news/templates/home.html
@@ -393,199 +493,205 @@
 -'  18  57  ~/news/templates/home.html
 |4,39,18,57,1701372574,"~/news/templates/home.html"
 -'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372574,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
 |4,39,18,57,1701372559,"~/news/templates/home.html"
 -'  18  57  ~/news/templates/home.html
 |4,39,18,57,1701372559,"~/news/templates/home.html"
--'  107  60  ~/news/app.py
-|4,39,107,60,1701372495,"~/news/app.py"
--'  107  60  ~/news/app.py
-|4,39,107,60,1701372495,"~/news/app.py"
--'  107  60  ~/news/app.py
-|4,39,107,60,1701372495,"~/news/app.py"
--'  107  60  ~/news/app.py
-|4,39,107,60,1701372495,"~/news/app.py"
--'  102  83  ~/news/app.py
-|4,39,102,83,1701372460,"~/news/app.py"
--'  96  83  ~/news/app.py
-|4,39,96,83,1701372460,"~/news/app.py"
--'  96  83  ~/news/app.py
-|4,39,96,83,1701372460,"~/news/app.py"
--'  96  83  ~/news/app.py
-|4,39,96,83,1701372460,"~/news/app.py"
--'  96  83  ~/news/app.py
-|4,39,96,83,1701372460,"~/news/app.py"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372457,"~/news/templates/profile.html"
--'  105  43  ~/news/app.py
-|4,39,105,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  98  43  ~/news/app.py
-|4,39,98,43,1701372433,"~/news/app.py"
--'  82  0  ~/news/app.py
-|4,39,82,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  77  0  ~/news/app.py
-|4,39,77,0,1701372389,"~/news/app.py"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  19  54  ~/news/templates/home.html
-|4,39,19,54,1701372385,"~/news/templates/home.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
--'  10  19  ~/news/templates/profile.html
-|4,39,10,19,1701372371,"~/news/templates/profile.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
+-'  18  57  ~/news/templates/home.html
+|4,39,18,57,1701372559,"~/news/templates/home.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/news/update_db.py
+	*	1701373890	0
+	"	12	0
+	^	12	0
+	.	11	0
+	+	32	144
+	+	32	139
+	+	32	44
+	+	32	144
+	+	38	33
+	+	33	7
+	+	34	7
+	+	35	11
+	+	36	11
+	+	37	11
+	+	38	11
+	+	13	40
+	+	33	0
+	+	32	39
+	+	39	10
+	+	1	23
+	+	53	66
+	+	63	30
+	+	63	103
+	+	74	12
+	+	63	12
+	+	39	8
+	+	33	28
+	+	80	989
+	+	80	31
+	+	80	842
+	+	80	313
+	+	80	207
+	+	80	236
+	+	80	139
+	+	80	768
+	+	80	31
+	+	81	0
+	+	33	25
+	+	77	0
+	+	63	30
+	+	33	28
+	+	1	7
+	+	17	23
+	+	17	0
+	+	17	23
+	+	46	8
+	+	22	23
+	+	30	0
+	+	24	32
+	+	25	18
+	+	17	50
+	+	17	0
+	+	18	0
+	+	45	29
+	+	5	26
+	+	1	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	15	0
+	+	14	0
+	+	46	60
+	+	85	1384
+	+	85	930
+	+	85	970
+	+	85	1005
+	+	85	1050
+	+	85	1101
+	+	85	1144
+	+	85	1185
+	+	85	1224
+	+	85	1260
+	+	85	1303
+	+	85	1342
+	+	85	330
+	+	85	0
+	+	13	30
+	+	85	374
+	+	85	30
+	+	85	0
+	+	48	4
+	+	46	53
+	+	47	7
+	+	15	0
+	+	5	45
+	+	1	0
+	+	85	329
+	+	85	0
+	+	1	0
+	+	5	0
+	+	30	0
+	+	1	3
+	+	3	2
+	+	21	6
+	+	29	6
+	+	88	0
+	+	80	31
+	+	81	0
+	+	27	19
+	+	10	32
+	+	11	0
 
 > ~/news/app.py
 	*	1701372934	0
@@ -787,112 +893,6 @@
 	+	4	23
 	+	4	0
 	+	24	29
-
-> ~/news/update_db.py
-	*	1701371167	0
-	"	21	0
-	^	21	1
-	.	21	0
-	+	32	8
-	+	34	41
-	+	35	22
-	+	15	159
-	+	15	0
-	+	1	0
-	+	1	17
-	+	1	7
-	+	1	0
-	+	33	0
-	+	23	144
-	+	23	139
-	+	23	44
-	+	23	144
-	+	29	33
-	+	24	7
-	+	25	7
-	+	26	11
-	+	27	11
-	+	28	11
-	+	29	11
-	+	11	40
-	+	24	0
-	+	23	39
-	+	30	10
-	+	1	23
-	+	44	66
-	+	54	30
-	+	54	103
-	+	65	12
-	+	54	12
-	+	30	8
-	+	24	28
-	+	72	958
-	+	72	0
-	+	72	811
-	+	72	282
-	+	72	176
-	+	72	205
-	+	72	108
-	+	72	737
-	+	72	0
-	+	73	0
-	+	24	25
-	+	68	0
-	+	54	30
-	+	24	28
-	+	1	7
-	+	15	23
-	+	15	0
-	+	15	23
-	+	37	8
-	+	17	23
-	+	21	0
-	+	19	32
-	+	20	18
-	+	15	50
-	+	15	0
-	+	16	0
-	+	36	29
-	+	2	26
-	+	1	0
-	+	13	0
-	+	12	0
-	+	11	0
-	+	13	0
-	+	12	0
-	+	11	0
-	+	13	0
-	+	12	0
-	+	37	60
-	+	77	1384
-	+	77	930
-	+	77	970
-	+	77	1005
-	+	77	1050
-	+	77	1101
-	+	77	1144
-	+	77	1185
-	+	77	1224
-	+	77	1260
-	+	77	1303
-	+	77	1342
-	+	77	330
-	+	77	0
-	+	11	30
-	+	77	374
-	+	77	30
-	+	77	0
-	+	39	4
-	+	37	53
-	+	38	7
-	+	13	0
-	+	3	22
-	+	1	0
-	+	77	329
-	+	77	0
-	+	1	0
-	+	2	0
-	+	21	0
 
 > ~/news/templates/admin_news.html
 	*	1701367257	0
