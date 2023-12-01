@@ -15,11 +15,15 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1701390778,,"wq"
-:q
-|2,0,1701390763,,"q"
+|2,0,1701396190,,"wq"
 :q!
-|2,0,1701390685,,"q!"
+|2,0,1701395634,,"q!"
+:WQ
+|2,0,1701395181,,"WQ"
+:q
+|2,0,1701394734,,"q"
+:qq!
+|2,0,1701394731,,"qq!"
 :set nu
 |2,0,1701390075,,"set nu"
 :.,.+1!
@@ -28,8 +32,6 @@
 |2,0,1701372555,,"Q!"
 :w
 |2,0,1701372431,,"w"
-:WQ
-|2,0,1701292368,,"WQ"
 :0,19d
 |2,0,1701026411,,"0,19d"
 :wq!
@@ -364,342 +366,236 @@
 |3,1,36,0,1,0,1701027619,"T\" action=\"{{ url_for('delete_news', news_id=item.id) }}\">"
 
 # File marks:
-'0  54  32  ~/news/app.py
-|4,48,54,32,1701390778,"~/news/app.py"
-'1  59  1  ~/news/models.py
-|4,49,59,1,1701390763,"~/news/models.py"
-'2  84  0  ~/news/app.py
-|4,50,84,0,1701390719,"~/news/app.py"
-'3  84  0  ~/news/app.py
-|4,51,84,0,1701390719,"~/news/app.py"
-'4  49  23  ~/news/app.py
-|4,52,49,23,1701390685,"~/news/app.py"
-'5  49  23  ~/news/app.py
-|4,53,49,23,1701390685,"~/news/app.py"
-'6  49  23  ~/news/app.py
-|4,54,49,23,1701390685,"~/news/app.py"
-'7  49  23  ~/news/app.py
-|4,55,49,23,1701390685,"~/news/app.py"
-'8  79  4  ~/news/update_db.py
-|4,56,79,4,1701390563,"~/news/update_db.py"
-'9  65  0  ~/news/models.py
-|4,57,65,0,1701390554,"~/news/models.py"
+'0  67  0  ~/news/models.py
+|4,48,67,0,1701396190,"~/news/models.py"
+'1  1  4  ~/news/app.py
+|4,49,1,4,1701396178,"~/news/app.py"
+'2  156  63  ~/news/app.py
+|4,50,156,63,1701396132,"~/news/app.py"
+'3  156  63  ~/news/app.py
+|4,51,156,63,1701396132,"~/news/app.py"
+'4  166  42  ~/news/app.py
+|4,52,166,42,1701395945,"~/news/app.py"
+'5  167  42  ~/news/app.py
+|4,53,167,42,1701395945,"~/news/app.py"
+'6  166  42  ~/news/app.py
+|4,54,166,42,1701395945,"~/news/app.py"
+'7  167  42  ~/news/app.py
+|4,55,167,42,1701395945,"~/news/app.py"
+'8  167  247  ~/news/app.py
+|4,56,167,247,1701395851,"~/news/app.py"
+'9  172  1  ~/news/app.py
+|4,57,172,1,1701395851,"~/news/app.py"
 
 # Jumplist (newest first):
--'  54  32  ~/news/app.py
-|4,39,54,32,1701390778,"~/news/app.py"
--'  84  0  ~/news/app.py
-|4,39,84,0,1701390766,"~/news/app.py"
--'  59  1  ~/news/models.py
-|4,39,59,1,1701390763,"~/news/models.py"
--'  59  1  ~/news/models.py
-|4,39,59,1,1701390763,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390755,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390755,"~/news/models.py"
--'  84  0  ~/news/app.py
-|4,39,84,0,1701390719,"~/news/app.py"
--'  84  0  ~/news/app.py
-|4,39,84,0,1701390719,"~/news/app.py"
--'  49  23  ~/news/app.py
-|4,39,49,23,1701390688,"~/news/app.py"
--'  49  23  ~/news/app.py
-|4,39,49,23,1701390688,"~/news/app.py"
--'  49  23  ~/news/app.py
-|4,39,49,23,1701390688,"~/news/app.py"
--'  49  23  ~/news/app.py
-|4,39,49,23,1701390685,"~/news/app.py"
--'  49  23  ~/news/app.py
-|4,39,49,23,1701390685,"~/news/app.py"
--'  242  7  ~/news/app.py
-|4,39,242,7,1701390627,"~/news/app.py"
--'  244  7  ~/news/app.py
-|4,39,244,7,1701390627,"~/news/app.py"
--'  242  7  ~/news/app.py
-|4,39,242,7,1701390627,"~/news/app.py"
--'  244  7  ~/news/app.py
-|4,39,244,7,1701390627,"~/news/app.py"
--'  242  7  ~/news/app.py
-|4,39,242,7,1701390627,"~/news/app.py"
--'  244  7  ~/news/app.py
-|4,39,244,7,1701390627,"~/news/app.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  79  4  ~/news/update_db.py
-|4,39,79,4,1701390563,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  71  12  ~/news/update_db.py
-|4,39,71,12,1701390559,"~/news/update_db.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  65  0  ~/news/models.py
-|4,39,65,0,1701390554,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  38  0  ~/news/models.py
-|4,39,38,0,1701390550,"~/news/models.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  244  7  ~/news/app.py
-|4,39,244,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  244  7  ~/news/app.py
-|4,39,244,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  246  7  ~/news/app.py
-|4,39,246,7,1701390548,"~/news/app.py"
--'  143  0  ~/news/app.py
-|4,39,143,0,1701390541,"~/news/app.py"
--'  145  0  ~/news/app.py
-|4,39,145,0,1701390541,"~/news/app.py"
--'  147  0  ~/news/app.py
-|4,39,147,0,1701390541,"~/news/app.py"
--'  143  0  ~/news/app.py
-|4,39,143,0,1701390541,"~/news/app.py"
+-'  67  0  ~/news/models.py
+|4,39,67,0,1701396190,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701396187,"~/news/models.py"
+-'  1  4  ~/news/app.py
+|4,39,1,4,1701396178,"~/news/app.py"
+-'  1  4  ~/news/app.py
+|4,39,1,4,1701396178,"~/news/app.py"
+-'  156  63  ~/news/app.py
+|4,39,156,63,1701396139,"~/news/app.py"
+-'  156  63  ~/news/app.py
+|4,39,156,63,1701396139,"~/news/app.py"
+-'  156  63  ~/news/app.py
+|4,39,156,63,1701396132,"~/news/app.py"
+-'  156  63  ~/news/app.py
+|4,39,156,63,1701396132,"~/news/app.py"
+-'  166  42  ~/news/app.py
+|4,39,166,42,1701396122,"~/news/app.py"
+-'  166  42  ~/news/app.py
+|4,39,166,42,1701396122,"~/news/app.py"
+-'  166  42  ~/news/app.py
+|4,39,166,42,1701396122,"~/news/app.py"
+-'  166  42  ~/news/app.py
+|4,39,166,42,1701396122,"~/news/app.py"
+-'  167  42  ~/news/app.py
+|4,39,167,42,1701395945,"~/news/app.py"
+-'  167  42  ~/news/app.py
+|4,39,167,42,1701395945,"~/news/app.py"
+-'  167  42  ~/news/app.py
+|4,39,167,42,1701395945,"~/news/app.py"
+-'  167  42  ~/news/app.py
+|4,39,167,42,1701395945,"~/news/app.py"
+-'  168  247  ~/news/app.py
+|4,39,168,247,1701395926,"~/news/app.py"
+-'  167  247  ~/news/app.py
+|4,39,167,247,1701395926,"~/news/app.py"
+-'  168  247  ~/news/app.py
+|4,39,168,247,1701395926,"~/news/app.py"
+-'  168  247  ~/news/app.py
+|4,39,168,247,1701395926,"~/news/app.py"
+-'  167  247  ~/news/app.py
+|4,39,167,247,1701395926,"~/news/app.py"
+-'  168  247  ~/news/app.py
+|4,39,168,247,1701395926,"~/news/app.py"
+-'  172  1  ~/news/app.py
+|4,39,172,1,1701395851,"~/news/app.py"
+-'  173  1  ~/news/app.py
+|4,39,173,1,1701395851,"~/news/app.py"
+-'  172  1  ~/news/app.py
+|4,39,172,1,1701395851,"~/news/app.py"
+-'  173  1  ~/news/app.py
+|4,39,173,1,1701395851,"~/news/app.py"
+-'  172  1  ~/news/app.py
+|4,39,172,1,1701395851,"~/news/app.py"
+-'  173  1  ~/news/app.py
+|4,39,173,1,1701395851,"~/news/app.py"
+-'  172  1  ~/news/app.py
+|4,39,172,1,1701395851,"~/news/app.py"
+-'  173  1  ~/news/app.py
+|4,39,173,1,1701395851,"~/news/app.py"
+-'  169  68  ~/news/app.py
+|4,39,169,68,1701395827,"~/news/app.py"
+-'  170  68  ~/news/app.py
+|4,39,170,68,1701395827,"~/news/app.py"
+-'  169  68  ~/news/app.py
+|4,39,169,68,1701395827,"~/news/app.py"
+-'  170  68  ~/news/app.py
+|4,39,170,68,1701395827,"~/news/app.py"
+-'  169  68  ~/news/app.py
+|4,39,169,68,1701395827,"~/news/app.py"
+-'  170  68  ~/news/app.py
+|4,39,170,68,1701395827,"~/news/app.py"
+-'  169  68  ~/news/app.py
+|4,39,169,68,1701395827,"~/news/app.py"
+-'  170  68  ~/news/app.py
+|4,39,170,68,1701395827,"~/news/app.py"
+-'  170  68  ~/news/app.py
+|4,39,170,68,1701395634,"~/news/app.py"
+-'  170  68  ~/news/app.py
+|4,39,170,68,1701395634,"~/news/app.py"
+-'  171  28  ~/news/app.py
+|4,39,171,28,1701395576,"~/news/app.py"
+-'  171  28  ~/news/app.py
+|4,39,171,28,1701395576,"~/news/app.py"
+-'  172  28  ~/news/app.py
+|4,39,172,28,1701395576,"~/news/app.py"
+-'  172  28  ~/news/app.py
+|4,39,172,28,1701395576,"~/news/app.py"
+-'  171  28  ~/news/app.py
+|4,39,171,28,1701395576,"~/news/app.py"
+-'  171  28  ~/news/app.py
+|4,39,171,28,1701395576,"~/news/app.py"
+-'  172  28  ~/news/app.py
+|4,39,172,28,1701395576,"~/news/app.py"
+-'  172  28  ~/news/app.py
+|4,39,172,28,1701395576,"~/news/app.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  33  0  ~/news/models.py
+|4,39,33,0,1701395574,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
+-'  12  0  ~/news/models.py
+|4,39,12,0,1701395521,"~/news/models.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/news/app.py
-	*	1701390777	0
-	"	54	32
-	^	54	33
-	.	54	32
-	+	16	0
-	+	18	0
-	+	232	0
-	+	152	38
-	+	206	0
-	+	197	87
-	+	154	85
-	+	116	0
-	+	113	45
-	+	113	130
-	+	142	66
-	+	128	13
-	+	137	23
-	+	129	4
-	+	163	37
-	+	118	0
-	+	138	12
-	+	135	0
-	+	134	69
-	+	15	22
-	+	133	46
-	+	134	36
-	+	39	0
-	+	40	0
-	+	41	0
-	+	41	314
-	+	41	0
-	+	79	27
-	+	41	53
-	+	41	63
-	+	41	96
-	+	41	143
-	+	41	176
-	+	41	263
-	+	41	299
-	+	41	54
-	+	41	329
-	+	16	34
-	+	41	78
-	+	16	0
-	+	17	0
-	+	41	0
-	+	16	0
-	+	17	0
-	+	55	0
-	+	54	30
-	+	44	22
-	+	79	4
-	+	52	103
-	+	79	4
-	+	52	114
-	+	51	59
-	+	51	29
-	+	79	4
-	+	51	32
-	+	52	0
-	+	51	30
-	+	45	0
-	+	52	125
-	+	52	89
-	+	52	113
-	+	52	47
-	+	52	74
-	+	79	0
-	+	99	40
-	+	111	60
-	+	1	28
-	+	42	31
-	+	47	33
-	+	58	27
-	+	64	15
-	+	65	30
-	+	84	13
-	+	85	28
-	+	101	29
-	+	115	30
-	+	134	8
-	+	117	44
-	+	131	44
-	+	155	0
-	+	50	0
-	+	49	8
-	+	50	22
-	+	79	0
-	+	24	0
-	+	242	94
-	+	243	0
-	+	241	53
-	+	242	0
-	+	140	49
-	+	140	132
-	+	140	60
-	+	141	0
-	+	140	0
-	+	113	0
-	+	114	0
-	+	134	8
-	+	52	47
-	+	53	0
-	+	54	32
-
 > ~/news/models.py
-	*	1701390762	0
-	"	59	1
-	^	59	2
-	.	63	22
+	*	1701396189	0
+	"	67	0
+	^	33	24
+	.	33	23
 	+	5	210
 	+	43	81
 	+	1	39
@@ -735,18 +631,18 @@
 	+	12	24
 	+	43	34
 	+	44	0
-	+	55	26
+	+	57	26
 	+	45	0
 	+	46	0
 	+	9	0
 	+	28	108
-	+	51	20
-	+	51	36
+	+	53	20
+	+	53	36
 	+	49	65
-	+	51	43
+	+	53	43
 	+	49	0
-	+	55	0
-	+	50	26
+	+	57	0
+	+	52	26
 	+	48	32
 	+	7	82
 	+	7	83
@@ -764,10 +660,134 @@
 	+	17	25
 	+	20	6
 	+	39	10
-	+	54	6
-	+	62	10
+	+	56	6
+	+	64	10
+	+	61	27
+	+	65	22
+	+	51	28
+	+	33	23
+
+> ~/news/app.py
+	*	1701396175	0
+	"	1	4
+	^	156	64
+	.	157	0
+	+	42	0
+	+	80	27
+	+	42	53
+	+	42	63
+	+	42	96
+	+	42	143
+	+	42	176
+	+	42	263
+	+	42	299
+	+	42	54
+	+	42	329
+	+	17	34
+	+	42	78
+	+	17	0
+	+	18	0
+	+	42	0
+	+	17	0
+	+	18	0
+	+	56	0
+	+	55	30
+	+	45	22
+	+	80	4
+	+	53	103
+	+	80	4
+	+	53	114
+	+	52	59
+	+	52	29
+	+	80	4
+	+	52	32
+	+	53	0
+	+	52	30
+	+	46	0
+	+	53	125
+	+	53	89
+	+	53	113
+	+	53	47
+	+	53	74
+	+	80	0
+	+	100	40
+	+	112	60
+	+	1	28
+	+	43	31
+	+	48	33
 	+	59	27
-	+	63	22
+	+	65	15
+	+	66	30
+	+	85	13
+	+	86	28
+	+	102	29
+	+	116	30
+	+	140	8
+	+	118	44
+	+	137	44
+	+	164	0
+	+	51	0
+	+	50	8
+	+	51	22
+	+	80	0
+	+	25	0
+	+	251	94
+	+	252	0
+	+	250	53
+	+	251	0
+	+	150	49
+	+	150	132
+	+	150	60
+	+	151	0
+	+	150	0
+	+	114	0
+	+	115	0
+	+	140	8
+	+	53	47
+	+	54	0
+	+	55	32
+	+	192	0
+	+	192	163
+	+	192	71
+	+	5	39
+	+	192	0
+	+	148	37
+	+	144	25
+	+	146	89
+	+	167	127
+	+	16	33
+	+	122	47
+	+	123	61
+	+	125	25
+	+	127	90
+	+	126	30
+	+	127	64
+	+	129	40
+	+	167	97
+	+	167	254
+	+	149	31
+	+	166	71
+	+	167	98
+	+	167	247
+	+	168	0
+	+	167	0
+	+	157	0
+
+> ~/news/templates/admin_news.html
+	*	1701394665	0
+	"	36	6
+	^	37	7
+	.	37	6
+	+	42	6
+	+	35	48
+	+	34	76
+	+	35	18
+	+	34	58
+	+	35	91
+	+	35	44
+	+	35	34
+	+	35	38
+	+	37	6
 
 > ~/news/update_db.py
 	*	1701390562	0
@@ -982,22 +1002,6 @@
 	+	18	57
 	+	19	0
 	+	18	58
-
-> ~/news/templates/admin_news.html
-	*	1701367257	0
-	"	42	6
-	^	37	7
-	.	37	6
-	+	42	6
-	+	35	48
-	+	34	76
-	+	35	18
-	+	34	58
-	+	35	91
-	+	35	44
-	+	35	34
-	+	35	38
-	+	37	6
 
 > ~/news/app.p
 	*	1701366858	0
