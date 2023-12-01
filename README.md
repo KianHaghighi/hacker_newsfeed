@@ -38,4 +38,8 @@ All the necessary configuration files (Nginx, supervisor, Gunicorn, Cron etc) yo
 
 
 ## Testing
-All the necessary steps to run testcodes in your repository
+All the necessary steps to run testcodes in your repository.
+    1.navigate to news directory "cd news"
+    2.activate the virtual environment "source env/venv/bin/activate"
+    3.run the app "coverage run -m unittest test_app.py"
+
