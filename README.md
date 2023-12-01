@@ -8,6 +8,8 @@ In order to run the flask app:
 ## Description
 The project is a Python web application that displays news from the Hacker News portal. It includes pages for Sign Up/Login, News Feed, Profile, and Admin functionalities. Users can like or dislike news items, and the application sorts news by time and popularity. Admin can delete news and the related likes and dislikes from the database.
 
+Video Demonstration URL: https://www.youtube.com/watch?v=lCFgIwiJMLE
+
 ## Table of Contents
 
 - [Features](#features)
