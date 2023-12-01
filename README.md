@@ -1,8 +1,3 @@
-In order to run the flask app:
-    1.navigate to news directory "cd news"
-    2.activate the virtual environment "source env/venv/bin/activate"
-    3.run the app "python3 app.py"
-
 # Project Name - Newsfeed
 
 ## Description
@@ -14,31 +9,55 @@ Video Demonstration URL: https://www.youtube.com/watch?v=lCFgIwiJMLE
 
 - [Features](#features)
 - [Installation](#installation)
-- [Configs](#configs)
+- [Configs](#configs
 - [Testing](#testing)
 
 ## Features
 
-- List key features of your web application with URLS.
+Login/signup route - 
+https://dev-cp1a2734d0cenhq1.us.auth0.com/u/login?state=hKFo2SBvTjRUZjFoYkhpSkV1UTVDUkRwRmM3VUpKcW1WWVYya6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEstNWRFWExQYmZLVDBIN2o5bDgtU3NBX0VWWUUwYUw0o2NpZNkgMldvN1d4Z1pqS2tlSXhXZEZ6TVRjSDhGN2lQcUoyaUY
 
-Login/signup route - https://dev-cp1a2734d0cenhq1.us.auth0.com/u/login?state=hKFo2SBvTjRUZjFoYkhpSkV1UTVDUkRwRmM3VUpKcW1WWVYya6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEstNWRFWExQYmZLVDBIN2o5bDgtU3NBX0VWWUUwYUw0o2NpZNkgMldvN1d4Z1pqS2tlSXhXZEZ6TVRjSDhGN2lQcUoyaUY
-
-News route(requires user login, will display admin news if admin is logged in, otherwise normal view) - https://www.kianawesomeweb.site/news
+News route(requires user login, will display admin news if admin is logged in, otherwise normal view) - https://www.kianawesomeweb.site/ then login and view the News URL.
 
 News route with JSON objects - https://www.kianawesomeweb.site/newsfeed
 
 Profile page(requires login) - https://www.kianawesomeweb.site/profile 
+
 ## Installation
 
-List down all the steps from setting up a server to hosting your application with Nginx and Gunicorn with all necessary libraries. Include a requirements.txt for setting up the environment easily.
-
+1. Clone the repository:
+    ```
+    git clone https://gitlab.com/kh21e_fsu/newsfeed.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd news
+    ```
+3. Install the necessary libraries using the requirements.txt file:
+    ```
+    pip3 install -r requirements.txt
+    pip3 install gunicorn
+    sudo apt install nginx
+    sudo apt install supervisor 
+    ```
+4. Start the project
+    ```
+    sudo supervisorctl restart myproject
+    ```
 
 ## Configs
-All the necessary configuration files (Nginx, supervisor, Gunicorn, Cron etc) you need to setup your server and web application. Please exclude any kind of personal information. 
 
+This project uses the following configuration files:
+
+- Nginx: Located at `/etc/nginx/sites-enabled/myproject'`
+- Gunicorn: Located at '/etc/supervisor/conf.d/myproject.conf'
 
 ## Testing
-All the necessary steps to run testcodes in your repository.
+To run the web app locally:
+    1.navigate to news directory "cd news"
+    2.activate the virtual environment "source env/venv/bin/activate"
+    3.run the app "python3 app.py"
+To run the test cases:
     1.navigate to news directory "cd news"
     2.activate the virtual environment "source env/venv/bin/activate"
     3.run the app "coverage run -m unittest test_app.py"
