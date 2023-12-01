@@ -21,7 +21,7 @@ Video Demonstration URL: https://www.youtube.com/watch?v=lCFgIwiJMLE
 
 - List key features of your web application with URLS.
 
-Login route - https://dev-cp1a2734d0cenhq1.us.auth0.com/u/login?state=hKFo2SBvTjRUZjFoYkhpSkV1UTVDUkRwRmM3VUpKcW1WWVYya6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEstNWRFWExQYmZLVDBIN2o5bDgtU3NBX0VWWUUwYUw0o2NpZNkgMldvN1d4Z1pqS2tlSXhXZEZ6TVRjSDhGN2lQcUoyaUY
+Login/signup route - https://dev-cp1a2734d0cenhq1.us.auth0.com/u/login?state=hKFo2SBvTjRUZjFoYkhpSkV1UTVDUkRwRmM3VUpKcW1WWVYya6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEstNWRFWExQYmZLVDBIN2o5bDgtU3NBX0VWWUUwYUw0o2NpZNkgMldvN1d4Z1pqS2tlSXhXZEZ6TVRjSDhGN2lQcUoyaUY
 
 News route(requires user login, will display admin news if admin is logged in, otherwise normal view) - https://www.kianawesomeweb.site/news
 
