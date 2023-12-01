@@ -9,7 +9,7 @@ Video Demonstration URL: https://www.youtube.com/watch?v=lCFgIwiJMLE
 
 - [Features](#features)
 - [Installation](#installation)
-- [Configs](#configs
+- [Configs](#configs)
 - [Testing](#testing)
 
 ## Features
