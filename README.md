@@ -49,7 +49,7 @@ Profile page(requires login) - https://www.kianawesomeweb.site/profile
 
 This project uses the following configuration files:
 
-- Nginx: Located at `/etc/nginx/sites-enabled/myproject'`
+- Nginx: Located at '/etc/nginx/sites-enabled/myproject'
 - Gunicorn: Located at '/etc/supervisor/conf.d/myproject.conf'
 
 ## Testing
